@@ -34,6 +34,6 @@ Bounty will be converted to bitcoin, using the Bitcoin Lightning Network. The ga
 
 ## Technical Details
 
-- The game runs a Lightning Network Node (LND [url]https://github.com/lightningnetwork/lnd[/url]) alongside the game
+- The game runs a Lightning Network Node [LND](https://github.com/lightningnetwork/lnd) alongside the game
 - This means all payments done to your node are truly yours
 - We provide the neccessary infrastructure for you to receive and send payments
